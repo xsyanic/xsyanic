@@ -15,12 +15,12 @@
 </picture>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--<a href="https://twitter.com/truesyanic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="truesyanic" height="30" width="40" /></a>-->
-<a href="https://instagram.com/syanicthenics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syanicbhaii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/syanicxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syanicxd" height="30" width="40" /></a>
-<a href="https://dsc.gg/syanicxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zwBJz5scTy" height="30" width="40" /></a>
+
+<p>
+<a href="https://instagram.com/syanicthenics" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a><a href="https://www.youtube.com/c/syanicxd" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/></a><a href="https://dsc.gg/syanicxd" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
 </p>
+
+[![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
 
 <h3 align="left">Languages and Tools:</h3>
 
