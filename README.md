@@ -59,7 +59,7 @@
 [![jsDelivr](https://img.shields.io/badge/jsDelivr-ffffff?style=for-the-badge&logo=jsdelivr&logoColor=ffffff&labelColor=111111&color=111111)](https://www.jsdelivr.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-ffffff?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=111111&color=111111)](https://jupyter.org/)
 [![Discord API](https://img.shields.io/badge/Discord%20API-ffffff?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=111111&color=111111)](https://discord.com/developers/docs/intro)
-[![Material Design Icons](https://img.shields.io/badge/Material%20Design%20Icons-ffffff?style=for-the-badge&logo=materialdesignicons&logoColor=ffffff&labelColor=111111&color=111111)](https://pictogrammers.com/library/mdi/)
+[![Tabler Icons](https://img.shields.io/badge/Tabler_Icons-ffffff?style=for-the-badge&logo=tablericons&logoColor=ffffff&labelColor=111111&color=111111)](https://tabler.io/icons)
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-ffffff?style=for-the-badge&logo=fontawesome&logoColor=ffffff&labelColor=111111&color=111111)](https://fontawesome.com/)
 
 #### What I'm currently learning:
