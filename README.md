@@ -104,7 +104,7 @@
 #### What I had used to an extent when building something:
 [![Astro](https://img.shields.io/badge/Astro-ffffff?style=for-the-badge&logo=astro&logoColor=ffffff&labelColor=111111&color=111111)](https://astro.build/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vuedotjs&logoColor=ffffff&labelColor=111111&color=111111)](https://vuejs.org/)
-![Java (Minecraft Modding & Android Development)](https://img.shields.io/badge/Java_(Minecraft_Modding_&_Android_Development)-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=111111&color=111111)
+[![Java (Minecraft Modding & Android Development)](https://img.shields.io/badge/Java_(Minecraft_Modding_&_Android_Development)-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=111111&color=111111)](https://www.oracle.com/java/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=111111&color=111111)](https://www.typescriptlang.org/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-ffffff?style=for-the-badge&logo=ffmpeg&logoColor=ffffff&labelColor=111111&color=111111)](https://ffmpeg.org/)
 [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=ffffff&labelColor=111111&color=111111)](https://www.gnu.org/software/bash/)
