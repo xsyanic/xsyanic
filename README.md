@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
 
-#### What I usually use:
+#### What I usually use when building anything:
 ![Go](https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=111111&color=111111)
 ![Wails](https://img.shields.io/badge/Wails-ffffff?style=for-the-badge&logo=wails&logoColor=ffffff&labelColor=111111&color=111111)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff?style=for-the-badge&logo=cloudflarepages&logoColor=ffffff&labelColor=111111&color=111111)
@@ -45,9 +45,10 @@
 ![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=111111&color=111111)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-ffffff?style=for-the-badge&logo=gunicorn&logoColor=ffffff&labelColor=111111&color=111111)
 ![NGINX](https://img.shields.io/badge/NGINX-ffffff?style=for-the-badge&logo=nginx&logoColor=ffffff&labelColor=111111&color=111111)
+![PWA Capabilities](https://img.shields.io/badge/PWA-ffffff?style=for-the-badge&logo=pwa&logoColor=ffffff&labelColor=111111&color=111111)
+![JWT](https://img.shields.io/badge/JWT-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&labelColor=111111&color=111111)
 ![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=ffffff&labelColor=111111&color=111111)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=111111&color=111111)
-![JWT](https://img.shields.io/badge/JWT-ffffff?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff&labelColor=111111&color=111111)
 ![Gradle](https://img.shields.io/badge/Gradle-ffffff?style=for-the-badge&logo=gradle&logoColor=ffffff&labelColor=111111&color=111111)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-ffffff?style=for-the-badge&logo=autohotkey&logoColor=ffffff&labelColor=111111&color=111111)
 ![ESP32](https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=ffffff&labelColor=111111&color=111111)
@@ -65,7 +66,7 @@
 ![Rust](https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=111111&color=111111)
 ![Axum](https://img.shields.io/badge/Axum-ffffff?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=111111&color=111111)
 
-#### Tools/services I usually use:
+#### Tools/services I usually use everyday:
 ![Zed](https://img.shields.io/badge/Zed-ffffff?style=for-the-badge&logo=zedindustries&logoColor=ffffff&labelColor=111111&color=111111)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=111111&color=111111)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-ffffff?style=for-the-badge&logo=notepadplusplus&logoColor=ffffff&labelColor=111111&color=111111)
@@ -100,9 +101,10 @@
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-ffffff?style=for-the-badge&logo=notebooklm&logoColor=ffffff&labelColor=111111&color=111111)
 ![v0](https://img.shields.io/badge/v0-ffffff?style=for-the-badge&logo=v0&logoColor=ffffff&labelColor=111111&color=111111)
 
-#### What I have experience dealing with:
+#### What I had used to an extent when building something:
 ![Astro](https://img.shields.io/badge/Astro-ffffff?style=for-the-badge&logo=astro&logoColor=ffffff&labelColor=111111&color=111111)
 ![Vue.js](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vuedotjs&logoColor=ffffff&labelColor=111111&color=111111)
+![Java (Minecraft Modding & Android Development)](https://img.shields.io/badge/Java_(Minecraft_Modding_&_Android_Development)-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=111111&color=111111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=111111&color=111111)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-ffffff?style=for-the-badge&logo=ffmpeg&logoColor=ffffff&labelColor=111111&color=111111)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=ffffff&labelColor=111111&color=111111)
@@ -115,7 +117,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-ffffff?style=for-the-badge&logo=threedotjs&logoColor=ffffff&labelColor=111111&color=111111)
 ![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=ffffff&labelColor=111111&color=111111)
 ![NFCs](https://img.shields.io/badge/NFC-ffffff?style=for-the-badge&logo=nfc&logoColor=ffffff&labelColor=111111&color=111111)
-![Java (Minecraft Modding)](https://img.shields.io/badge/Java_(Minecraft_Modding)-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=111111&color=111111)
+
 
 #### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=ffffff&labelColor=111111&color=111111)
