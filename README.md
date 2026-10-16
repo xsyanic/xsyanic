@@ -57,6 +57,7 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-ffffff?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&labelColor=111111&color=111111)
 ![jsDelivr](https://img.shields.io/badge/jsDelivr-ffffff?style=for-the-badge&logo=jsdelivr&logoColor=ffffff&labelColor=111111&color=111111)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-ffffff?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=111111&color=111111)
+![Discord API](https://img.shields.io/badge/Discord%20API-ffffff?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=111111&color=111111)
 ![Material Design Icons](https://img.shields.io/badge/Material%20Design%20Icons-ffffff?style=for-the-badge&logo=materialdesignicons&logoColor=ffffff&labelColor=111111&color=111111)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-ffffff?style=for-the-badge&logo=fontawesome&logoColor=ffffff&labelColor=111111&color=111111)
 
@@ -114,6 +115,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-ffffff?style=for-the-badge&logo=threedotjs&logoColor=ffffff&labelColor=111111&color=111111)
 ![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis&logoColor=ffffff&labelColor=111111&color=111111)
 ![NFCs](https://img.shields.io/badge/NFC-ffffff?style=for-the-badge&logo=nfc&logoColor=ffffff&labelColor=111111&color=111111)
+![Java (Minecraft Modding)](https://img.shields.io/badge/Java_(Minecraft_Modding)-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=111111&color=111111)
 
 #### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=ffffff&labelColor=111111&color=111111)
