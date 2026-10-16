@@ -122,5 +122,6 @@
 #### Operating Systems:
 [![Windows](https://img.shields.io/badge/Windows-ffffff?style=for-the-badge&logo=windows&logoColor=ffffff&labelColor=111111&color=111111)](https://www.microsoft.com/windows)
 [![Debian](https://img.shields.io/badge/Debian-ffffff?style=for-the-badge&logo=debian&logoColor=ffffff&labelColor=111111&color=111111)](https://www.debian.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=ffffff&labelColor=111111&color=111111)](https://archlinux.org/)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-ffffff?style=for-the-badge&logo=linuxmint&logoColor=ffffff&labelColor=111111&color=111111)](https://linuxmint.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?style=for-the-badge&logo=ubuntu&logoColor=ffffff&labelColor=111111&color=111111)](https://ubuntu.com/)
