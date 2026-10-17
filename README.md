@@ -18,7 +18,7 @@
 
 [<img src="https://skillicons.dev/icons?i=instagram" width="30" />](https://instagram.com/xsyanic) [<img src="https://raw.githubusercontent.com/xsyanic/skill-icons/refs/heads/main/icons/youtube.svg" width="30" />](https://www.youtube.com/@syanicxd) [<img src="https://skillicons.dev/icons?i=discord" width="30" />](https://dsc.gg/syanicxd)
 
-[![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
+[![](https://lanyard.cnrad.dev/api/771740239931768892?hideActivity=true)](https://discord.com/users/771740239931768892/)
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
