@@ -16,9 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p>
-<a href="https://instagram.com/syanicthenics" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a><a href="https://www.youtube.com/c/syanicxd" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/></a><a href="https://dsc.gg/syanicxd" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
-</p>
+[<img src="https://skillicons.dev/icons?i=instagram" width="30" />](https://instagram.com/syanicthenics) [<img src="https://raw.githubusercontent.com/xsyanic/skill-icons/refs/heads/main/icons/youtube.svg" width="30" />](https://www.youtube.com/c/syanicxd) [<img src="https://skillicons.dev/icons?i=discord" width="30" />](https://dsc.gg/syanicxd)
 
 [![](https://discord.c99.nl/widget/theme-1/771740239931768892.png)](https://discord.com/users/771740239931768892/)
 
