@@ -61,6 +61,7 @@
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-ffffff?style=for-the-badge&logo=fontawesome&logoColor=ffffff&labelColor=111111&color=111111)](https://fontawesome.com/)
 
 #### What I'm currently learning:
+[![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=111111&color=111111)](https://www.c-language.org/)
 [![Rust](https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=111111&color=111111)](https://www.rust-lang.org/)
 [![Axum](https://img.shields.io/badge/Axum-ffffff?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=111111&color=111111)](https://github.com/tokio-rs/axum)
 
