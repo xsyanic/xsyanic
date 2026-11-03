@@ -2,17 +2,7 @@
 <div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • I make stuff :)</i> 🇮🇳</sub></div>
 <br>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xsyanic&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xsyanic&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=xsyanic&show_icons=true" />
-</picture>
+![](https://streak-stats.demolab.com/?user=xsyanic&theme=dark&hide_border=true)<br/>
 
 <h3 align="left">Connect with me:</h3>
 
