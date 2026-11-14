@@ -10,6 +10,13 @@
 
 [![](https://lanyard.cnrad.dev/api/771740239931768892?hideActivity=true)](https://discord.com/users/771740239931768892/)
 
+<h3 align="left">Some of my popular projects:</h3>
+
+- [PiCapes](https://picapes.syanic.org/) - Minecraft Capes Service for everyone! (in production; service; 10k+ registered users)
+- [Syanic Launcher](https://launcher.syanic.org/) - Minecraft launcher in Golang (under development; desktop app)
+- [offline-e4mc](https://github.com/xsyanic/offline-e4mc) - Minecraft mod that literally gives you more control over your hosted world (minecraft mod)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
 
