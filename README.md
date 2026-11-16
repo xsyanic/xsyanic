@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathvii</h1>
-<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • CSE Student in College • I make stuff :)</i> 🇮🇳</sub></div>
+<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • CSE Student, in College rn • I make stuff :)</i> 🇮🇳</sub></div>
 <br>
 
 ![](https://streak-stats.demolab.com/?user=xsyanic&theme=dark&hide_border=true)<br/>
@@ -16,6 +16,9 @@
 - [Syanic Launcher](https://launcher.syanic.org/) - Minecraft launcher in Golang (under development; desktop app)
 - [offline-e4mc](https://github.com/xsyanic/offline-e4mc) - Minecraft mod that literally gives you more control over your hosted world (minecraft mod)
 
+<h3 align="left">Inspirations:</h3>
+
+- [hayyoth](https://youtube.com/@hayyoth-org) - Inspired me the idea of simplicity, Content and accessibility are key; _keep things extremely simple and ensure it performs its intended function._
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
