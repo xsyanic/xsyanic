@@ -16,9 +16,9 @@
 - [Syanic Launcher](https://launcher.syanic.org/) - Minecraft launcher in Golang (under development; desktop app)
 - [offline-e4mc](https://github.com/xsyanic/offline-e4mc) - Minecraft mod that literally gives you more control over your hosted world (minecraft mod)
 
-<h3 align="left">Inspirations:</h3>
+<h3 align="left">Idealogies/Beliefs:</h3>
 
-- [hayyoth](https://youtube.com/@hayyoth-org) - Inspired me the idea of simplicity, Content and accessibility are key; _keep things extremely simple and ensure it performs its intended function._
+- [hayyoth](https://youtube.com/@hayyoth-org) - The idea of simplicity, Content and accessibility are key; _keep things extremely simple and ensure it performs its intended function._
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
