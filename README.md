@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathvii</h1>
-<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • CSE Student, in College rn • I make stuff :)</i> 🇮🇳</sub></div>
+<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • Currently Student, in CSE College rn • I make stuff :)</i> 🇮🇳</sub></div>
 <br>
 
 ![](https://streak-stats.demolab.com/?user=xsyanic&theme=dark&hide_border=true)<br/>
@@ -28,6 +28,8 @@
 [![Wails](https://img.shields.io/badge/Wails-ffffff?style=for-the-badge&logo=wails&logoColor=ffffff&labelColor=111111&color=111111)](https://wails.io/)
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff?style=for-the-badge&logo=cloudflarepages&logoColor=ffffff&labelColor=111111&color=111111)](https://pages.cloudflare.com/)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-ffffff?style=for-the-badge&logo=cloudflareworkers&logoColor=ffffff&labelColor=111111&color=111111)](https://workers.cloudflare.com/)
+[![Cloudflare KV](https://img.shields.io/badge/Cloudflare_KV_(similar_to_Redis)-ffffff?style=for-the-badge&logo=cloudflareworkers&logoColor=ffffff&labelColor=111111&color=111111)](https://developers.cloudflare.com/kv/)
+[![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1_(Database)-ffffff?style=for-the-badge&logo=sqlite&logoColor=ffffff&labelColor=111111&color=111111)](https://developers.cloudflare.com/d1/)
 [![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=111111&color=111111)](https://vercel.com/)
 [![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=111111&color=111111)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=111111&color=111111)](https://github.com/features/actions)
