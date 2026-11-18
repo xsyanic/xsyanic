@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathvii</h1>
-<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • Currently Student, in CSE College rn • I make stuff :)</i> 🇮🇳</sub></div>
+<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • Currently Student, in CSE College rn</i></sub></div>
 <br>
 
 ![](https://streak-stats.demolab.com/?user=xsyanic&theme=dark&hide_border=true)<br/>
