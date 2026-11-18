@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathvii</h1>
-<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • Currently Student, in CSE College rn</i></sub></div>
+<div align="center"><sub><i>Also known as <b>SyanicXD</b> or <b>Threadripper</b> • Currently Student, in CSE College rn • I build stuff that matters</i></sub></div>
 <br>
 
 ![](https://streak-stats.demolab.com/?user=xsyanic&theme=dark&hide_border=true)<br/>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Idealogies/Beliefs:</h3>
 
-- [hayyoth](https://youtube.com/@hayyoth-org) - The idea of simplicity, Content and accessibility are key; _keep things extremely simple and ensure it performs its intended function._
+- [hayyoth](https://youtube.com/@hayyoth-org) - The idea of simplicity; Content and accessibility are key, _keep things extremely simple and ensure it performs its intended function._
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- want badges? use https://xsyanic.github.io/badges4readme/ -->
